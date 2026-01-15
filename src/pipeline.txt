@@ -1,0 +1,6 @@
+data_cleaning.py(cleans the given data)
+                 |
+                 v   
+preprocess_for_models.py (preprocess the models)
+                 |
+                 v
